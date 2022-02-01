@@ -24,6 +24,8 @@ Manually deploy your application to this environment by uploading a .zip file
 
 ## Task 2 CLI Deploy: 
 
+http://cloud-server-cli.eba-8dheu9id.us-west-2.elasticbeanstalk.com/
+
 Using the same server, create a new environment using Elastic Beanstalk from your terminal
 
 Manually deploy your application to this environment by using eb deploy
